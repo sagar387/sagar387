@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development ,
 - 🌱 I’m currently learning  javascript
 -❤️ I Pursuing Diploma in Computer Science Engineer
--
+-😘 I am looking for Internship in web Development
+-💕   Self Taught Developer
 
-sagar387/sagar387 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ <img src="https://phantomlandscapes.files.wordpress.com/2021/04/html-css-javascript.jpg">
