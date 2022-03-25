@@ -4,17 +4,24 @@
 -❤️ I Pursuing Diploma in Computer Science Engineer
 -😘 I am looking for Internship in web Development
 -💕   Self Taught Developer
-<!-- style   -->
- 
-
-<!-- image -->
-<div class ="img">
- <center>
- <img src="https://p.kindpng.com/picc/s/746-7466789_html5-banner-ads-html-css-javascript-logo-png.png"style="width:455px">
- </center>
- </div>
- 
+ ____________________________________________________________________________________________________
 <!-- Reach me On   -->
-
+<label>Connect with me   </label>
 <div class="social-link">
-   </div>
+  <a href=""target="_blank">
+ </a>
+ <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png"style="width:55px">
+ <a href="#"target="_blank">
+ </a>
+ <a href="#"target="_blank">
+ </a>
+ <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"width="50px">                                                                                 
+</div>
+  
+ <div id="text">
+ <span aling="left"> Front End Developer </span>
+ </div>
+
+<div id="img"> 
+  <img src="https://miro.medium.com/max/960/1*ulD6na_hQsXA5uC0acoteA.png"widt="60px">
+  </div>
