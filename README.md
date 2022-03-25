@@ -17,11 +17,12 @@
  </a>
  <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"width="50px">                                                                                 
 </div>
-  
  <div id="text">
  <span aling="left"> Front End Developer </span>
  </div>
-
 <div id="img"> 
   <img src="https://miro.medium.com/max/960/1*ulD6na_hQsXA5uC0acoteA.png"widt="60px">
   </div>
+
+ <video width="320" height="240" controls>
+ <source src="https://www.canva.com/design/DAE7_ZBKdzc/-CFdIBrhuAL4E1FL40tk3g/edit?utm_content=DAE7_ZBKdzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"type="video/mp4"
