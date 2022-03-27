@@ -4,9 +4,11 @@
 -❤️ I Pursuing Diploma in Computer Science Engineer
 -😘 I am looking for Internship in web Development
 -💕   Self Taught Developer
- ____________________________________________________________________________________________________
+ _____________________________________________
 <!-- Reach me On   -->
-<label>Connect with me   </label>
+ <h1 align="center">A Passonate WeB Developer ❤️</h3>
+<br><br>
+<h3>ConnecT With Me  😎 </h3>
 <div class="social-link">
   <a href=""target="_blank">
  </a>
@@ -17,12 +19,17 @@
  </a>
  <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"width="50px">                                                                                 
 </div>
- <div id="text">
- <span aling="left"> Front End Developer </span>
- </div>
-<div id="img"> 
-  <img src="https://miro.medium.com/max/960/1*ulD6na_hQsXA5uC0acoteA.png"widt="60px">
-  </div>
+<!-- web link   -->
+<h2 align="center">Tools that I am used in Web Designing  </h2>
+<br> 
+<!-- tool images  -->
+ <p justify-content="space-between">
+<img src="https://www.drupal.org/files/images/drupalhtml5logo_0.png"width="100px">
+<img src="https://freeiconshop.com/wp-content/uploads/edd/css-flat.png"width="100px">
+<img src="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png"width="150px">
+<img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png"width="100px">
+ 
 
- <video width="320" height="240" controls>
- <source src="https://www.canva.com/design/DAE7_ZBKdzc/-CFdIBrhuAL4E1FL40tk3g/edit?utm_content=DAE7_ZBKdzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"type="video/mp4"
+</p>
+ 
+  
