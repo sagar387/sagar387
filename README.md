@@ -1,13 +1,30 @@
  - 👨‍💻 Hi I am Sagar Chaurasia. 
+
+
 - 📱 Front End Developer.
- 🔭 Currently Pursuing Diploma in Computer Science Engineering 
-  🤝 Now Focus on Full Stack Developer
-  - 👨‍💻 All of my projects are available at ["https://github.com/sagar387/sagar387"] 
+
+
+
+🔭 Currently Pursuing Diploma in Computer Science Engineering 
+
+
+
+🤝 Now Focus on Full Stack Developer
+
+
+
+- 👨‍💻 All of my projects are available at ["https://github.com/sagar387/sagar387"] 
 <!-- Reach me On   -->
- 📫 How to reach me **sagarchaurasia176@gmail.com**
- <h1 align="center">A Passonate WeB Developer ❤️</h3>
-<br><br>
+
+
+📫 How to reach me **sagarchaurasia176@gmail.com**
+
+
+<h1 align="center">A Passonate WeB Developer ❤️</h3>
+
+
 <h3>Connect With Me  </h3>
+
 <div class="social-link">
   <a href=""target="_blank">
  </a>
