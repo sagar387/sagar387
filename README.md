@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Sagar Chaurasia
-- 👀 I’m interested in Web Development ,
-- 🌱 I’m currently learning  javascript
--❤️ I Pursuing Diploma in Computer Science Engineer <br>
--😘 I am looking for Internship in web Development
--💕   Self Taught Developer
+ - 👨‍💻 Hi I am Sagar Chaurasia. 
+- 📱 Front End Developer.
+ 🔭 Currently Pursuing Diploma in Computer Science Engineering 
+  🤝 Now Focus on Full Stack Developer
   - 👨‍💻 All of my projects are available at ["https://github.com/sagar387/sagar387"] 
 <!-- Reach me On   -->
+ 📫 How to reach me **sagarchaurasia176@gmail.com**
  <h1 align="center">A Passonate WeB Developer ❤️</h3>
 <br><br>
 <h3>Connect With Me  </h3>
@@ -31,4 +30,3 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeEZJV6yz8WS2-NXjDY-fSZG3SguX4oK1NgfvF7JyIz0acaVR_DUcjcXQBNlIFWGOgBg&usqp=CAU"width="16%">
 <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"width="10%">
 </p>
-
