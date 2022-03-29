@@ -4,7 +4,6 @@
 -❤️ I Pursuing Diploma in Computer Science Engineer
 -😘 I am looking for Internship in web Development
 -💕   Self Taught Developer
- _____________________________________________
 <!-- Reach me On   -->
  <h1 align="center">A Passonate WeB Developer ❤️</h3>
 <br><br>
@@ -29,6 +28,4 @@
 <img src="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png"width="150px">
 <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png"width="100px">
 </p>
-____________________________________________________________________________________________________________________________________________________
- 
 
