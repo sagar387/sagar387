@@ -4,7 +4,7 @@
 -❤️ I Pursuing Diploma in Computer Science Engineer
 -😘 I am looking for Internship in web Development
 -💕   Self Taught Developer
-  - 👨‍💻 All of my projects are available at ["https://github.com/sagar387/sagar387"target="_blank"] 
+  - 👨‍💻 All of my projects are available at ["https://github.com/sagar387/sagar387"] 
 <!-- Reach me On   -->
  <h1 align="center">A Passonate WeB Developer ❤️</h3>
 <br><br>
