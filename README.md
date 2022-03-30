@@ -1,13 +1,13 @@
- - 👨‍💻 Hi I am Sagar Chaurasia. 
+  👨‍💻 Hi I am Sagar Chaurasia. 
 
+💥 Front End Developer.
 
-- Front End Developer.
-
-🔭 Currently Pursuing Diploma in Computer Science Engineering 
+👨‍💻 Currently Pursuing Diploma in Computer Science Engineering 
 
 🤝 Now Focus on Full Stack Developer
 
-- 👨‍💻 All of my projects are available at ["https://github.com/sagar387/sagar387"] 
+🔑 All of my projects are available at ["https://github.com/sagar387/sagar387"] 
+
 <!-- Reach me On   -->
 
 📫 How to reach me **sagarchaurasia176@gmail.com**
