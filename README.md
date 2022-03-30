@@ -35,6 +35,6 @@
 <img src="https://freeiconshop.com/wp-content/uploads/edd/css-flat.png"width="100px">
 <img src="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png"width="150px">
 <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png"width="100px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeEZJV6yz8WS2-NXjDY-fSZG3SguX4oK1NgfvF7JyIz0acaVR_DUcjcXQBNlIFWGOgBg&usqp=CAU"width="16%">
-<img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"width="10%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeEZJV6yz8WS2-NXjDY-fSZG3SguX4oK1NgfvF7JyIz0acaVR_DUcjcXQBNlIFWGOgBg&usqp=CAU"width="8%">
+<img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"width="8%">
 </p>
