@@ -12,7 +12,7 @@
 
 📫 How to reach me **sagarchaurasia176@gmail.com**
 
-<h1 align="center">A Passonate WeB Developer ❤️</h3>
+<h1 align="center">A PASSONATE WEB DEVEELOPER ❤️</h3>
 
 <h3>Connect With Me  </h3>
 
